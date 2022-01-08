@@ -25,3 +25,7 @@ function Daftar_Loker() {
     location.replace("loker-terbaru.html");
     alert("Pendaftaran Berhasil");
 }
+
+$(document).ready(function(){
+    $('[data-toggle="tooltip"]').tooltip({html:true});
+});
