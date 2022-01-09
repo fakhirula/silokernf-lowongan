@@ -1,6 +1,7 @@
 <h1 align="center">SILOKERNF-LOWONGAN</h1>
 <p align="center">SILOKERNF-LOWONGAN is a website for job seekers and worker recruiters devoted to Alumni STT Terpadu Nurul Fikri. Please use it for learning media, made using Bootstrap v5.1.3, AdminLTE v3.1.0 and fontawesome</p>
 <p align="center">
+  
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-green.svg?style=flat-square)](#contributors-)
 ![GitHub last commit](https://img.shields.io/github/last-commit/fakhirula/silokernf-lowongan.svg)
 ![GitHub repo size in bytes](https://img.shields.io/github/repo-size/fakhirula/silokernf-lowongan?style=flat-square)
