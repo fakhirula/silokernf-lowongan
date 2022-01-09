@@ -1,12 +1,10 @@
 <h1 align="center">SILOKERNF-LOWONGAN</h1>
-<p align="center">SILOKERNF-LOWONGAN is a website for job seekers and worker recruiters devoted to Alumni STT Terpadu Nurul Fikri. Please use it for learning media, made using Bootstrap v5.1.3, AdminLTE v3.1.0 and fontawesome</p>
-<p align="center">
-  
+<p align="center">SILOKERNF-LOWONGAN is a website for job seekers and worker recruiters devoted to Alumni STT Terpadu Nurul Fikri. Please use it for learning media, made using Bootstrap v5.1.3, AdminLTE v3.1.0 and fontawesome v6.</p>
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-green.svg?style=flat-square)](#contributors-)
-![GitHub last commit](https://img.shields.io/github/last-commit/fakhirula/silokernf-lowongan.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/fakhirula/silokernf-lowongan.svg?style=flat-square)
 ![GitHub repo size in bytes](https://img.shields.io/github/repo-size/fakhirula/silokernf-lowongan?style=flat-square)
-[![License](https://img.shields.io/github/license/fakhirula/silokernf-lowongan)](LICENSE)
-</p>
+[![License](https://img.shields.io/github/license/fakhirula/silokernf-lowongan?style=flat-square)](LICENSE)
 
 ## Installation
 1. Clone this repository or download zip
